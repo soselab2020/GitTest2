@@ -1,7 +1,8 @@
 public class Calculator {
 
     private String name = "Java or C#";
-
+    private String desc = "My descriptions";
+    
     public int add(int a, int b) {
         return a + b;
     }
