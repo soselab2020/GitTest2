@@ -1,5 +1,4 @@
 public class Calculator {
-<<<<<<< HEAD
 
     private String name = "Java or C#";
 
