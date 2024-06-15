@@ -1,6 +1,7 @@
 public class Calculator {
+<<<<<<< HEAD
 
-    private String name = "Java";
+    private String name = "Java or C#";
 
     public int add(int a, int b) {
         return a + b;
